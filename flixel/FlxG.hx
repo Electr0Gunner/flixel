@@ -323,7 +323,7 @@ class FlxG
 	/**
 	 * Contains a list of all sounds and other things to manage or `play()` sounds.
 	 */
-	public static var sound(default, null):SoundFrontEnd;
+	public static var sound:SoundFrontEnd;
 	#end
 
 	/**
